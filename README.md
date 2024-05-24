@@ -1,5 +1,5 @@
 # Interslice
-![Project Logo](https://github.com/Interslice-Inc/Interslice/blob/main/Files/Company_Logo/Designer_(4).jpeg)
+![Project Logo](https://github.com/Interslice-Inc/Interslice/blob/main/Files/Company_Logo/Interslice_Logo.jpeg)
 
 ## Team Members
 * Steve Cherewaty [Github](https://github.com/SCherewaty) ! [LinkedIn](https://www.linkedin.com/in/steve-cherewaty-jr-b8727135/)
