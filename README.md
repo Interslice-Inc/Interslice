@@ -1,4 +1,5 @@
 # Interslice
+![Project Logo](https://github.com/Interslice-Inc/Interslice/blob/main/Designer%20(4).jpeg)
 
 ## Team Members
 * Steve Cherewaty [Github](https://github.com/SCherewaty) ! [LinkedIn](https://www.linkedin.com/in/steve-cherewaty-jr-b8727135/)
@@ -6,16 +7,15 @@
 * Julian Camilo Peña [Github](https://github.com/julianp91) ! [LinkedIn](https://www.linkedin.com/in/julian-pena-bb8643267/)
 * Cody Blahnik [Github](https://github.com/Cody354) ! [LinkedIn](https://www.linkedin.com/in/cody-blahnik-/)
 
-## [Team Agreement]()
+## [Team Agreement](https://github.com/Interslice-Inc/Interslice/blob/main/Ops-401d12_%20Team%20Agreement.pdf)
 
 ## [System Selection]()
 
 ## [Employee Handbook]()
-
 ## SOP docs and the slideshow
   
 ## Topologies/Visuals
 
-## [Trello]()
+## [Trello](https://trello.com/w/interslice2)
 
 ## Scripts
