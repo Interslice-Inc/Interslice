@@ -7,7 +7,7 @@
 * Julian Camilo Peña [Github](https://github.com/julianp91) ! [LinkedIn](https://www.linkedin.com/in/julian-pena-bb8643267/)
 * Cody Blahnik [Github](https://github.com/Cody354) ! [LinkedIn](https://www.linkedin.com/in/cody-blahnik-/)
 
-## [Team Agreement](/PDF's_Files/Team_Agreement.pdf)
+## [Team Agreement](/Files/PDF's_Files/Team_Agreement.pdf)
 
 ## [System Selection]()
 
