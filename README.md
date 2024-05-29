@@ -17,7 +17,7 @@ Table of Contents
 <!--te-->
 
 ## Project Overview
-Description
+Our fictional company, InterSlice, Inc., has been hired to design and protect Cromulent Innovation's cloud infrastructure (also fictitious). For Cromulent Innovations, as a small startup scaling to a larger company, cloud infrastructure provides the greatest elasticity for growth and remote talent acquisition. InterSlice's contract with Cromulent Innovations includes implementing robust cloud security measures, setting up log aggregation (SIEM) components as well as ensuring CIS compliance.  The contract also stipulates a demonstration of the systems performance when under attack. 
 
 ## Team Members
 Meet the team behind Interslice:
@@ -41,14 +41,6 @@ We selected the technology stack for Interslice based on the following criteria:
 
 View the full System Selection [here]()
 
-## Employee Handbook
-The employee handbook outlines policies and procedures for team members, covering areas such as:
-- Code of Conduct
-- Work Hours and Remote Work Policies
-- Leave and Time-off Procedures
-- Performance Evaluation Guidelines
-
-View the full Employee Handbook [here]()
 
 ## Standard Operating Procedure
 We follow a set of Standard Operating Procedures (SOPs) to maintain consistency and efficiency within the project:
