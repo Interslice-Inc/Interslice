@@ -48,7 +48,7 @@ We follow a set of Standard Operating Procedures (SOPs) to maintain consistency 
 <summary>Documents</summary>
 <oi>
   <li>Compliance Documentation: Cloud Compliance</li>
-  <li>Cloud Security Incident Response Plan for Cromulent Innovations: Description or link</li>
+  <li>Cloud Security Incident Response Plan for Cromulent Innovations</li>
 </oi>
 </details>
   
