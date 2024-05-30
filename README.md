@@ -47,12 +47,8 @@ We follow a set of Standard Operating Procedures (SOPs) to maintain consistency 
 <details>
 <summary>Documents</summary>
 <oi>
-  <li><a href="/test">SOP 1: Deployment Process</a></li>
+  <li>Compliance Documentation: Cloud Compliance</li>
   <li>Cloud Security Incident Response Plan for Cromulent Innovations: Description or link</li>
-  <li>SOP 3: Description or link</li>
-  <li>SOP 4: Description or link</li>
-  <li>SOP 5: Description or link</li>
-  <li>SOP 6: Description or link</li>
 </oi>
 </details>
   
