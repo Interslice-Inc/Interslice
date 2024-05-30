@@ -39,7 +39,7 @@ We selected the technology stack for Interslice based on the following criteria:
 - **Ease of Use**: Selected user-friendly tools to facilitate development and maintenance processes.
 - **Community Support**: Preferred technologies with active developer communities for ongoing support and updates.
 
-View the full System Selection [here]()
+View the full System Selection [here](https://docs.google.com/document/d/14wZOiQRt_aNjLRM1ZauwTRN04GPFAGapR_iJCgEHTZo/edit?usp=sharing)
 
 
 ## Standard Operating Procedure
