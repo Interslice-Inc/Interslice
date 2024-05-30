@@ -68,4 +68,4 @@ We have a collection of scripts used in the project for various purposes:
 
 ## Presentation Link
 View our live project presentation [here](/Files/Presentation.pdf) for an overview of Interslice's features and functionalities.<br>
-Take a view of our project presentation slideshow [here]()
+Take a view of our project presentation slideshow [here](https://docs.google.com/presentation/d/1m3m5O-sK3qk8ESkDpDag1BTY4Q_qjwiAwv-tpqjp5qM/edit?usp=sharing)
