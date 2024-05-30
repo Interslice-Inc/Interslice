@@ -63,8 +63,8 @@ We use [Trello](https://trello.com/w/interslice2) to track our progress and task
 ## Scripts
 We have a collection of scripts used in the project for various purposes:
 * [SSH Brute Force](/Files/Scripts/bruteforce.py) : This script is a collection of security-related tools, including network scanning, brute-force attack simulation, and file encryption for educational and testing purposes.
-* [Lambda Script](/Files/Script/lambda_script.py) : This AWS Lambda function provides automated security measures to mitigate brute-force SSH attacks by monitoring failed login attempts and dynamically blocking users whose attempts exceed a defined threshold.
-* [Lambda Script #2](/Files/Script/lambda_2nd.py) : This AWS Lambda function tracks SSH login attempts. If the number of attempts reaches three, it invokes another Lambda function (timeout_user_function) to potentially block the user. It uses Boto3 to interact with AWS services and returns a status message confirming the processing of the SSH attempt. This helps prevent unauthorized access and brute-force attacks.
+* [Lambda Script](/Files/Scripts/lambda_script.py) : This AWS Lambda function provides automated security measures to mitigate brute-force SSH attacks by monitoring failed login attempts and dynamically blocking users whose attempts exceed a defined threshold.
+* [Lambda Script #2](/Files/Scripts/lambda_2nd.py) : This AWS Lambda function tracks SSH login attempts. If the number of attempts reaches three, it invokes another Lambda function (timeout_user_function) to potentially block the user. It uses Boto3 to interact with AWS services and returns a status message confirming the processing of the SSH attempt. This helps prevent unauthorized access and brute-force attacks.
 
 ## Presentation Link
 View our live project presentation [here](/Files/Presentation.pdf) for an overview of Interslice's features and functionalities.<br>
