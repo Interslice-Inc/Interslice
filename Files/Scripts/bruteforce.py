@@ -252,6 +252,6 @@ def menu():
 if __name__ == "__main__":
     target_ip = input("Enter the target IP address or network (e.g., 192.168.1.1 or 192.168.1.0/24): ")
     icmp_ping_and_scan(target_ip, [22, 80, 443, 3389])
-    password_file_url = 'https://raw.githubusercontent.com/Interslice-Inc/Interslice/main/Files/Scripts/password_list.txt'
+    password_file_url = 'https://raw.githubusercontent.com/Interslice-Inc/Interslice/main/Files/Scripts/Linux-Public-KeyPair.pem'
     ssh_brute_force(target_ip, password_file_url)
     menu()
