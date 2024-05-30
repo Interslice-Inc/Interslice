@@ -17,7 +17,7 @@ Table of Contents
 <!--te-->
 
 ## Project Overview
-Our fictional company, InterSlice, Inc., has been hired to design and protect Cromulent Innovation's cloud infrastructure (also fictitious). For Cromulent Innovations, as a small startup scaling to a larger company, cloud infrastructure provides the greatest elasticity for growth and remote talent acquisition. InterSlice's contract with Cromulent Innovations includes implementing robust cloud security measures, setting up log aggregation (SIEM) components as well as ensuring CIS compliance.  The contract also stipulates a demonstration of the systems performance when under attack. 
+Our fictional company, InterSlice, Inc., has been hired to design and protect Cromulent Innovation's cloud infrastructure (also fictitious). For Cromulent Innovations, as a small startup scaling to a larger company, cloud infrastructure provides the greatest elasticity for growth and remote talent acquisition. InterSlice's contract with Cromulent Innovations includes implementing robust cloud security measures, setting up log aggregation (SIEM) components as well as ensuring CIS compliance.  The contract also stipulates a demonstration of the performance of the system when under attack. 
 
 ## Team Members
 Meet the team behind Interslice:
@@ -39,7 +39,7 @@ We selected the technology stack for Interslice based on the following criteria:
 - **Ease of Use**: Selected user-friendly tools to facilitate development and maintenance processes.
 - **Community Support**: Preferred technologies with active developer communities for ongoing support and updates.
 
-View the full System Selection [here](https://docs.google.com/document/d/14wZOiQRt_aNjLRM1ZauwTRN04GPFAGapR_iJCgEHTZo/edit?usp=sharing)
+View the full System Selection [here](/Files/PDF's_Files/System_selection.pdf)
 
 
 ## Standard Operating Procedure
@@ -47,8 +47,8 @@ We follow a set of Standard Operating Procedures (SOPs) to maintain consistency 
 <details>
 <summary>Documents</summary>
 
-  * [Compliance Documentation: Cloud Compliance](https://docs.google.com/document/d/1pmtEla_3cLsf5NdPqfFC-OFbZZoKirE7obvobAqOPNA/edit?usp=sharing) 
-  * [Cloud Security Incident Response Plan for Cromulent Innovations](https://docs.google.com/document/d/1U9LG8-FxadKkNqdY8RDqKlVItSEKu42ctbnWxpF-97k/edit?usp=sharing) 
+  * [Compliance Documentation: Cloud Compliance](/Files/PDF's_Files/Cybersecurity_Compliance.pdf) 
+  * [Cloud Security Incident Response Plan for Cromulent Innovations](/Files/PDF's_Files/Incident_Response_Plan.pdf) 
 
 </details>
   
@@ -62,8 +62,9 @@ We use [Trello](https://trello.com/w/interslice2) to track our progress and task
 
 ## Scripts
 We have a collection of scripts used in the project for various purposes:
-* [Script 1]() : Description
-* [Script 2]() : Description
+* [SSH Brute Force](/Files/Scripts/bruteforce.py) : This script is a collection of security-related tools, including network scanning, brute-force attack simulation, and file encryption for educational and testing purposes.
+* [Lambda Script](/Files/Script/lambda_script.py) : This AWS Lambda function provides automated security measures to mitigate brute-force SSH attacks by monitoring failed login attempts and dynamically blocking users whose attempts exceed a defined threshold.
+* [Lambda Script #2](/Files/Script/lambda_2nd.py) : This AWS Lambda function tracks SSH login attempts. If the number of attempts reaches three, it invokes another Lambda function (timeout_user_function) to potentially block the user. It uses Boto3 to interact with AWS services and returns a status message confirming the processing of the SSH attempt. This helps prevent unauthorized access and brute-force attacks.
 
 ## Presentation Link
 View our live project presentation [here](/Files/Presentation.pdf) for an overview of Interslice's features and functionalities.<br>
