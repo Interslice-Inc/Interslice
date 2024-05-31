@@ -63,7 +63,7 @@ We use [Trello](https://trello.com/w/interslice2) to track our progress and task
 ## Scripts
 We have a collection of scripts used in the project for various purposes:
 * [SSH Brute Force](/Files/Scripts/bruteforce.py) : This script is a collection of security-related tools, including network scanning, brute-force attack simulation, and file encryption for educational and testing purposes.
-* [SSH Lambda Script](/Files/Scripts/SSHLambda.py) : This script is intended to notify subscribers of the SNS topic about SSH login attempts by sending an alert message with details of the event. This can be useful for monitoring and security purposes, allowing administrators to be aware of and respond to potential unauthorized access attempts.
+* [SSH Lambda Script](/Files/Scripts/SSHLambda.py) : This script is intended to notify subscribers of the SNS topic about SSH login attempts by sending an alert message with details of the event. Useful for monitoring and security purposes, allowing administrators to be aware of and respond to potential unauthorized access attempts.
 
 ## Presentation Link
 View our live project presentation [here](/Files/Presentation.pdf) for an overview of Interslice's features and functionalities.<br>
