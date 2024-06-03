@@ -66,5 +66,5 @@ We have a collection of scripts used in the project for various purposes:
 * [SSH Lambda Script](/Files/Scripts/SSHLambda.py) : This script is intended to notify subscribers of the SNS topic about SSH login attempts by sending an alert message with details of the event. Useful for monitoring and security purposes, allowing administrators to be aware of and respond to potential unauthorized access attempts.
 
 ## Presentation Link
-View our live project presentation [here](/Files/Presentation.pdf) for an overview of Interslice's features and functionalities.<br>
+View our live project presentation [here]([/Files/Presentation.pdf](https://zoom.us/rec/play/qTvQ0_XLpPA6Whj41MPtBK3cWpbVPZsa7g8ggtI63uKswoHHTxt1IMgbtz5Xbtg6xTzyRfM18IsIAYh8.70IZgwGRIXTUklh9?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FSWynSdDfz0lfPqQ8ffyVXBo4pVy99BCs0YhXRMkj3hJBV3acIHjfJsSCnvr43Cxd.PLsEBRM0_BZsVXdV)) for an overview of Interslice's features and functionalities.<br>
 Take a view of our project presentation slideshow [here](/Files/PDF's_Files/InterSlice_Presentation.pdf)
