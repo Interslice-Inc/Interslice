@@ -52,10 +52,12 @@ We follow a set of Standard Operating Procedures (SOPs) to maintain consistency 
 
 </details>
   
-## Topologies/Visuals
+## Topologies/Cloud Architecture Design
 Here are some visual representations of Interslice's architecture and topology:
 * [General Topology](/Files/Company_Logo/General_TOP.drawio.png)
 * [Arch Topology](/Files/Company_Logo/Arch_TOP.drawio.png)
+* [Network Infastructure Table](Files/PDF's_Files/networkinfrastructure.pdf)
+* [Attack Architecture Design](Files/PDF's_Files/AttackArchitectture.drawio.png)
 
 ## Project Management Tool
 We use [Trello](https://trello.com/w/interslice2) to track our progress and tasks. In Trello, we organize tasks into boards, lists, and cards, representing different stages of development. Each card contains details such as task description, assignee, due date, and checklist items.
